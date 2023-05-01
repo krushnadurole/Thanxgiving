@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    /* justify-content: space-between; */
+    flex-wrap: wrap;
+}
+
+.button{
+    margin-top: 1cm;
+    border-radius: 40%;
+    margin: 1em;
+    width: 10em;
+    background-color:#985b0b;
+    color: #fff;
+    border:none;
+} 
+.navbarr{
+    margin-bottom: 2em;
+}
+
+.navbar{
+    background-color: rgb(43, 41, 41);
+}

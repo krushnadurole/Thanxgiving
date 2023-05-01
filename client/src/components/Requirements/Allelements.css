@@ -1,0 +1,10 @@
+.container{
+     margin: 1cm;
+     border: 2cm;
+     display: flex;
+}
+.mainn{
+     display: flex;
+     width:15cm;
+}
+

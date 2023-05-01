@@ -1,0 +1,28 @@
+.cardc{
+    border-color: black;
+    border-width: 0.0511em;
+    border-style:solid;
+    text-align: center;
+    margin: 0.05em;
+    padding: 0.5em;
+}
+
+.na{
+    background-color: #49b933;
+}
+.h{
+    font-weight: 200;
+    color: black;
+}
+body{
+    color: black;
+}
+.maindev{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    border-width: 0.01cm;
+    border-color: black;
+    border-radius: 10%;
+    overflow:hidden;
+}

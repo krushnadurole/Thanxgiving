@@ -1,0 +1,215 @@
+[
+    {
+        "title": "Creating policy for website",
+        "description": "Design a website for this social cause using basic info from the organisation",
+        "category": "Volunteers",
+        "timeline":"4 Weeks",
+        "duration":"8 hrs/week",
+        "email": "volunteers@gmail.com"
+    },
+    {
+        "title": "Grant application writing",
+        "description": "Content writing, research management",
+        "category": "Volunteers",
+        "timeline":"7 Weeks",
+        "duration":"6 hrs/week",
+        "email": "volunteers@gmail.com"
+    },
+    {
+        "title": "Childcare Volunteer Program",
+        "description": "Volunteer at the Child Care Project and work with infants and toddlers. Play with them, shower them with love & make memories of a lifetime.",
+        "category": "Volunteers",
+        "timeline":"-",
+        "duration":"Full Time",
+        "email": "volunteers@gmail.com"
+    },
+    {
+        "title": "Dental Elective Internship",
+        "description": "Be a part of Dental Elective Internship project and work with professional dentists. Students joining in groups can also organize dental care camps.",
+        "category": "Volunteers",
+        "timeline":"4 months",
+        "duration":"Part Time",
+        "email": "volunteers@gmail.com"
+    },
+    {
+        "title": "Women Empowerment",
+        "description": "Contribute to Women Empowerment in India and help them to be more independent, learn to communicate in English and be confident to earn a livelihood.",
+        "category": "Volunteers",
+        "timeline":"6 months",
+        "duration":"Part Time",
+        "email": "volunteers@gmail.com"
+    },
+    {
+        "title": "Street Children Volunteering",
+        "description": "Street Children Program consists of taking informal education classes with the children, playing games with the children and introducing them to activity-based learning.",
+        "category": "Volunteers",
+        "timeline":"3 months",
+        "duration":"5-6 hrs/day",
+        "email": "volunteers@gmail.com"
+    },
+    {
+        "title": "Work with Elephants",
+        "description": "Feeding the elephant, Bathing them, Massage of elephant, cleaning the area, making bundles of hay, go for a walk with them and help mahouts in making chapattis",
+        "category": "Volunteers",
+        "timeline":"4 weeks",
+        "duration":"4 hrs/day",
+        "email": "volunteers@gmail.com"
+    },
+    {
+        "title": "VOLUNTEER IN ORPHANAGE INDIA",
+        "description": "Teach them Basic English & Mathematics, Help them in their school home work,Organize fun games for them & involve in extra activities like drawing, singing, dancing and other extra curricular activities, tell them about importation of sanitation and aid, help with work in kitchen like cooking and distribution of food.",
+        "category": "Volunteers",
+        "timeline":"12 weeks",
+        "duration":"20 hrs/week",
+        "email": "volunteers@gmail.com"
+    },
+    {
+        "title": "Mobiles",
+        "description": "Required for school kids at the Meera Orphanage to continue their online classes",
+        "category": "Electronics",
+        "quantity":"10",
+        "email": "requirements@gmail.com"
+    },
+    {
+        "title": "Laptops",
+        "description": "Requirment for women empowerment classes ",
+        "category": "Electronics",
+        "quantity":"15",
+        "email": "requirements@gmail.com"
+    },
+    {
+        "title": "Fans",
+        "description": "Table/overhead fans required at PBMA old age homes",
+        "category": "Electronics",
+        "quantity":"8",
+        "email": "requirements@gmail.com"
+    },
+    {
+        "title": "Refridgerators",
+        "description": "Refridgerators required at old age homes",
+        "category": "Electronics",
+        "quantity":"8",
+        "email": "requirements@gmail.com"
+    },
+    {
+        "title":"Sarees",
+        "description": "Sarees required for middle-aged women and senior citizens at old age home",
+        "category": "Clothes",
+        "persons":"Female",
+        "email": "requirements@gmail.com"
+    },
+    {
+        "title":"Clothes",
+        "description": "Orphanages require dresses for children aged 8-15 years",
+        "category": "Clothes",
+        "persons":"Children",
+        "email": "requirements@gmail.com"
+    },
+    {
+        "title":"Dress",
+        "description": "Any kind of clothing required for middle-aged women and senior citizens at old age home",
+        "category": "Clothes",
+        "persons":"Female",
+        "email": "requirements@gmail.com"
+    },
+    {
+        "title":"Grocery",
+        "description": "Grocery required for atleast a month",
+        "category": "Food",
+        "no. of people":"40",
+        "email": "requirements@gmail.com"
+    },
+    {
+        "title":"Milk",
+        "description": "Milk for infants at orphanage",
+        "category": "Food",
+        "no. of people":"10",
+        "email": "requirements@gmail.com"
+    },
+    {
+        "title":"Protein supplements",
+        "description": "Nutrient requirement can be satisfied with these protein supplements.",
+        "category": "Food",
+        "no. of people":"30",
+        "email": "requirements@gmail.com"
+    },
+    {
+        "title":"Milk",
+        "description": "Milk for infants at St.George orphanage",
+        "category": "Food",
+        "no. of people":"8",
+        "email": "requirements@gmail.com"
+    },
+    {
+        "title":"CBSE books",
+        "description": "Books for classes 6-10 of CBSE board for children's home",
+        "category": "Books",
+        "email": "requirements@gmail.com"
+    },
+    {
+        "title":"Braille books",
+        "description": "Books with braille for PBMA sponsored students",
+        "category": "Books",
+        "email": "requirements@gmail.com"
+    },
+    {
+        "title":"Vehicle",
+        "description": "Vehicle required for transporting animals from zoo to veterinarian",
+        "category": "Vehicle",
+        "email": "requirements@gmail.com"
+    },
+    {
+        "title":"Spectacles",
+        "description": "Prescription specs required",
+        "category": "Others",
+        "email": "requirements@gmail.com"
+    },
+    {
+        "title":"Desks",
+        "description": "Desks for students of government schools",
+        "category": "Others",
+        "email": "requirements@gmail.com"
+    },
+    {
+        "title":"Household Supplies",
+        "description": "Flood hit areas in Odisha require household supplies at the refugee camp",
+        "category": "Others",
+        "email": "requirements@gmail.com"
+    },
+    {
+        "title":"Cleaning Supplies",
+        "description": "Flood hit areas in Odisha require cleaning supplies at the refugee camp",
+        "category": "Others",
+        "email": "requirements@gmail.com"
+    },
+    {
+        "title":"Sanitation Supplies",
+        "description": "Flood hit areas in Odisha require toiletries, sanitary napkins and disinfectants at the refugee camp",
+        "category": "Others",
+        "email": "requirements@gmail.com"
+    },
+    {
+        "title":"Running Shoes",
+        "description": "Shoes requires for talented athletes at the orphanage.",
+        "category": "Others",
+        "email": "requirements@gmail.com"
+    },
+    {
+        "title":"Adult diapers",
+        "description": "Diapers required for the invalid senior citizens at the old age home",
+        "category": "Others",
+        "email": "requirements@gmail.com"
+    },
+    {
+        "title":"Attorney services",
+        "description": "Lawyer required for handling NGO cases related to land disputes,custody of children",
+        "category": "Others",
+        "email": "requirements@gmail.com"
+    },
+    {
+        "title":"Attorney services",
+        "description": "Lawyer required for handling NGO cases related to land disputes,custody of children",
+        "category": "Others",
+        "email": "requirements@gmail.com"
+    }
+]

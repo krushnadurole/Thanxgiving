@@ -1,0 +1,27 @@
+.sub{
+    margin: 0.18em;
+}
+
+.main{
+    font-weight: bolder;
+}
+
+.login{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 1em;
+    margin: 5em;
+    align-self: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+@media screen and (max-width: 840px) {
+    .login{
+        border-style:solid;
+        border-radius: 10%;
+        border-width: 0.5em;
+    }
+  }
